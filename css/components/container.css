@@ -1,0 +1,15 @@
+.container {
+  width: 600px;
+  margin: 0 auto;
+}
+
+.intro p {
+/*  font-size: 12px;*/
+margin-bottom: 30px;
+margin-top: 0px;
+}
+
+.container h1 {
+/*  font-size: 12px;*/
+margin: 0px 0px;
+}

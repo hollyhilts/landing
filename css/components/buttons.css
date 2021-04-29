@@ -1,0 +1,53 @@
+/* Your button CSS file */
+
+.btn-orange {
+  background: orange;
+  color: white;
+  font-weight: bold;
+  border-radius: 4px;
+  padding: 12px 24px;
+  transition: 0.2s;
+  margin: 0px 0px;
+  text-shadow: none;
+}
+
+.btn-orange:hover {
+  background: darkorange;
+}
+
+a > i {
+  color: orange;
+  font-size: 30px;
+}
+
+a > i:hover {
+  color: darkorange;
+}
+
+/*.btn-medium {
+  font-weight: lighter;
+  color: lightgrey;
+  border: 1px solid;
+  padding: 12px 24px;
+  border-color: lightgrey;
+  border-radius: 45px;
+  transition: 0.2s;
+}
+
+.btn-medium:hover {
+  color: grey;
+  border-color: grey;
+}*/
+
+/*.btn-yours {
+  background: orange;
+  color: white;
+  border: 1px solid;
+  padding: 8px 24px;
+  border-radius: 40px 20px 40px 20px;
+  transition: background .5s;
+}
+
+.btn-yours:hover {
+  background: lightgreen;
+}*/
